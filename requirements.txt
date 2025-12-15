@@ -1,0 +1,10 @@
+streamlit
+requests
+beautifulsoup4
+lxml
+faiss-cpu
+python-dotenv
+numpy
+scikit-learn
+openai==0.28.1
+google-generativeai
