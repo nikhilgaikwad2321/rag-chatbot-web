@@ -64,7 +64,7 @@ Final Answer
 | Embeddings | TF-IDF |
 | Vector Search | Cosine Similarity |
 | LLM | Gemini Flash Lite |
-| Deployment | Streamlit Cloud |
+| Deployment | Render |
 
 ---
 
@@ -99,4 +99,4 @@ Final Answer
 
 ## 🌐 Deployment
 
-Deployed using **Streamlit Community Cloud**.
+Deployed using Render
